@@ -1,13 +1,14 @@
-def dogs(array)
+def my_collect(array)
   i = 0
-  dogs = []
+collection = []
   while i < array.length
-    dogs << yeild(array[i]
+    collection << yeild(array[i]
     i += 1
   end
 collection
 end
 
+my_collect(array)
 
 
 
