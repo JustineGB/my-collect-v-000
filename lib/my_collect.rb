@@ -1,6 +1,6 @@
 def my_collect(array)
   i = 0
-collection = []
+collection = [ ]
   while i < array.length
     collection << yeild(array[i]
   i += 1
